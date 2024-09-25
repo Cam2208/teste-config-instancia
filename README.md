@@ -1,2 +1,3 @@
 # teste-config-instancia
-Aula sobre como configurar uma instância de Banco de Dados na Azure
+Aula sobre como configurar uma instância de Banco de Dados na Azure.
+Teste realizado com sucesso.
